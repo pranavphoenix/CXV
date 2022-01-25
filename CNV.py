@@ -229,7 +229,6 @@ class CNV(nn.Module):
         dropout = 0.
     ):
         super().__init__()
-        kwargs = dict(locals())
 
         dim = int(emb_dim/2)
         self.conv = nn.Sequential(
