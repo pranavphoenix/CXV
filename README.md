@@ -31,5 +31,5 @@ Please cite the following papers if you are using the WaveMix model
   
   copyright = {Creative Commons Attribution 4.0 International}
 }
-}
+
 ```
