@@ -11,7 +11,7 @@ Models:
 * CLTV - Convolutional Linear Transformer for Vision
 
 
-Please cite the following papers if you are using the WaveMix model
+Please cite the following paper if you are using the CXV models
 
 ```
 @misc{https://doi.org/10.48550/arxiv.2201.10271,
