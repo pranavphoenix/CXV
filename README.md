@@ -10,3 +10,26 @@ Models:
 * CPV - Convolutional Performer for Vision
 * CLTV - Convolutional Linear Transformer for Vision
 
+
+Please cite the following papers if you are using the WaveMix model
+
+```
+@misc{https://doi.org/10.48550/arxiv.2201.10271,
+  doi = {10.48550/ARXIV.2201.10271},
+  
+  url = {https://arxiv.org/abs/2201.10271},
+  
+  author = {Jeevan, Pranav and sethi, Amit},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences, I.4.0; I.4.1; I.4.7; I.4.8; I.4.9; I.4.10; I.2.10; I.5.1; I.5.2; I.5.4},
+  
+  title = {Convolutional Xformers for Vision},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+}
+```
