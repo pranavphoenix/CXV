@@ -168,7 +168,7 @@ class CLTV(nn.Module):
     def forward(self, x):
         x = self.conv(x)
 
-        for cnn, transformer in self.layers:
+        for cnn, norm, transformer in self.layers:
             x = cnn(x)
             x = norm(x)
             x = transformer(x)
